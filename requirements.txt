@@ -1,0 +1,7 @@
+
+#### 5. **Create `requirements.txt`**
+
+If you used a virtual environment, run:
+
+```bash
+pip freeze > requirements.txt
