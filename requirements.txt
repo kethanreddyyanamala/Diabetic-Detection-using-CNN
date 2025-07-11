@@ -1,7 +1,7 @@
+TensorFlow/Keras
 
-#### 5. **Create `requirements.txt`**
+OpenCV
 
-If you used a virtual environment, run:
+NumPy
 
-```bash
-pip freeze > requirements.txt
+Matplotlib
