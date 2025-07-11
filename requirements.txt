@@ -5,3 +5,13 @@ OpenCV
 NumPy
 
 Matplotlib
+
+
+
+MANUALLY  :
+
+tensorflow
+numpy
+opencv-python
+matplotlib
+pandas
